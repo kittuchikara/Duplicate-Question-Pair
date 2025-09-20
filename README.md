@@ -28,15 +28,21 @@ Question 2
 
 # 🛠️ Tech Stack
 Backend: Python
+
 Machine Learning: scikit-learn, XGBoost, Pandas, Numpy
+
 Frontend: Streamlit
 
 # 🌟 Key Learnings & Insights
 Efficient handling of large NLP datasets
+
 Combining feature engineering with text vectorization improves semantic similarity detection
+
 Random Forest outperforms other models in minimizing false positives (Type I errors)
+
 Building a local interactive web interface for testing ML models
 
 # 🧠 Future Improvements
 💡 Experiment with deep learning models (LSTMs / Transformers)
+
 🌐 Deploy online via Heroku, Render, or Streamlit Cloud
