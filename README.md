@@ -1,4 +1,4 @@
-# 🔥 Duplicate Question Detection Web App
+# 🔥 Duplicate Question Pairs Detection Web App
 A machine learning web application that predicts whether two questions have the same meaning using the Quora Question Pairs Kaggle dataset.
 
 # Project Overview
@@ -6,8 +6,11 @@ This project tackles a real-world NLP challenge posed by Quora. The goal is to d
 
 # 🧠 Model Overview
 Algorithm: Random Forest, XGBoost
+
 Preprocessing: Text cleaning, feature engineering (length difference, common words, longest common substring etc)
+
 Text Representation: CountVectorizer
+
 Libraries: scikit-learn, pandas, numpy, streamlit
 
 # 💬 Input Features
