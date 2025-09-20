@@ -19,8 +19,11 @@ Question 2
 
 # ✨ Features
 🔍 Predict if two questions are duplicates
+
 🧠 ML models trained from scratch using CountVectorizer and engineered features
+
 🌐 Interactive Streamlit web app for local testing
+
 🎨 Simple, user-friendly interface
 
 # 🛠️ Tech Stack
